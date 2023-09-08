@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
-<h1 align="center">Hi 👋, I'm KRUNALL</h1>
-<h3 align="center">A passionate App developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://i.imgur.com/MvMxQ1a.gif")
+<h1 align="center">Hi 👋, I'm KRUNAL WAGHELA</h1>
+<h3 align="center">A passionate Android App developer from India</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 <p align="left"> <img src="https://www.bing.com/images/search?view=detailV2&ccid=zTf6ScmD&id=6D504FF33A0968CBE6409CD601A45BAB9573885D&thid=OIP.zTf6ScmDrJBd8AFv1bai7gHaFj&mediaurl=https%3a%2f%2fmedia1.tenor.com%2fimages%2fcd37fa49c983ac905df0016fd5b6a2ee%2ftenor.gif%3fitemid%3d13165216&exph=480&expw=640&q=animated+coding+gif&simid=608031502683415440&FORM=IRPRST&ck=E0967AD7F6ED5CE7DA7A1D0062A32F12&selectedIndex=35&ajaxhist=0&ajaxserp=0" alt="krunal022" /> </p>
 
