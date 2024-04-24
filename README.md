@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
+![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)
 <h1 align="center">Hi 👋, I'm KRUNAL WAGHELA</h1>
 <h3 align="center">  WORK IN PROGRESS 🔥 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
