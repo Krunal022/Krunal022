@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krunal022&label=Profile%20views&color=0e75b6&style=flat" alt="krunal022" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning**React Js**
 
-- 💬 Ask me about **Android , Java , Html , css , animations..**
+- 💬 Ask me about**Android,Java,Html,css+animations..**
 
-- 📫 How to reach me **krunalvaghela723@gmail.com**
+- 📫 How to reach me**krunalvaghela723@gmail.com**
 
-- ⚡ Fun fact **I am not funny**
+- ⚡ Fun fact**I am not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
