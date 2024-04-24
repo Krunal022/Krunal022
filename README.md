@@ -1,5 +1,5 @@
 ![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)
-<h1 align="center">Heyy 👋, I'm KRUNALL !</h1>
+<h1 align="center">Heyy 🔮, I'm KRUNALL !</h1>
 <h3 align="center">  WORK IN PROGRESS 🔥 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
