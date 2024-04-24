@@ -1,17 +1,17 @@
 ![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)
-<h1 align="center">Hi 👋, I'm KRUNAL WAGHELA</h1>
+<h1 align="center">Heyy 👋, I'm KRUNALL !</h1>
 <h3 align="center">  WORK IN PROGRESS 🔥 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krunal022&label=Profile%20views&color=0e75b6&style=flat" alt="krunal022" /> </p>
 
-- 🌱 I’m currently learning **Advance Java & Android..**
+- 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **Android , Java , Html**
+- 💬 Ask me about **Android , Java , Html , css , animations..**
 
 - 📫 How to reach me **krunalvaghela723@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
