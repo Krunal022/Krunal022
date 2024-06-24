@@ -1,12 +1,12 @@
-<h1 align="center">Heyy 🔮, I'm KRUNALL !</h1>
+<h3 align="center">👋 Welcome to my profile! I'm Krunal'Vaghela, a versatile professional:</h3>
 <h3 align="center">  WORK IN PROGRESS 🔥 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krunal022&label=Profile%20views&color=0e75b6&style=flat" alt="krunal022" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **WebAnimationss**
 
-- 💬 Ask me about **Android,Java,Html,css+animations..**
+- 💬 Ask me about **Android,Java,WebDev..**
 
 - 📫 How to reach me **krunalvaghela723@gmail.com**
 
