@@ -6,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krunal022&label=Profile%20views&color=0e75b6&style=flat" alt="krunal022" /> </p>
 
-- 🌱 I’m currently learning **WebAnimationss**
+- 🌱 
+Right now, I’m diving into the world of web animation and cutting-edge technologies!
 
 - ~ I am currently pursuing my bachelor's degree and immersing myself in various technologies.
 With this foundation, I am on a fast track to becoming a proficient software engineer.
