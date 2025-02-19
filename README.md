@@ -9,8 +9,7 @@
 - 🌱 
 Right now, I’m diving into the world of web animation and cutting-edge technologies!
 
-- ~ I am currently pursuing my bachelor's degree and immersing myself in various technologies.
-With this foundation, I am on a fast track to becoming a proficient software engineer.
+- 🧑🏻‍🎓 I am currently pursuing my bachelor's degree and Constantly sharpening my skills in front-end and full-stack development.
 
 <h3 align="left">Connect with me:</h3>
 
