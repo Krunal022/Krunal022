@@ -1,7 +1,7 @@
 <!-- <img src="(https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif)" alt="GitHub Banner" width="100%" /> -->
 
 # Hello World!, I'm Krunal, Web Developer 👋🏼:
-🛜 Right now, I’m diving into the world of web animation and cutting-edge technologies! [dive](https://krunal-this-side.vercel.app/)<br>👨🏼‍🎓 I am currently pursuing my bachelor's degree<br>👨🏼‍💻 and Constantly sharpening my skills in front-end and<br><i>full-stack web development.</i>
+🛜 Right now, I’m [diving](https://krunal-this-side.vercel.app/) into the world of web animation and cutting-edge technologies!<br>👨🏼‍🎓 I am currently pursuing my bachelor's degree<br>👨🏼‍💻 and Constantly sharpening my skills in front-end and<br><i>full-stack web development.</i>
 
 [![X](https://img.shields.io/badge/X-black.svg?style=normal&logo=X&logoColor=white)](https://x.com/Krunal_X)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krunal-waghela-8aba82250/)
